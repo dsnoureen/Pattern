@@ -1,11 +1,11 @@
 #include <stdio.h>
 int main(){
     /*
-           1
-         0 1 
-       1 0 1
-     0 1 0 1
-   1 0 1 0 1
+        1
+       10
+      101
+     1010
+    10101
 
     */
    int n, row, col;
